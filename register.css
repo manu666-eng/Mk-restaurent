@@ -1,0 +1,40 @@
+body{
+    background-image: url(bg9.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+}
+form{
+    border: solid 1px white;
+    width: 400px;
+    background-color: skyblue;
+    margin-left: 50px;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    color: lightslategrey;
+    font-size: 45px;
+}
+label{
+    font-size: 20px;
+    columns: blue;
+    font-weight: bold;
+
+}
+input{
+    width: 200px;
+    height: 20px;
+    margin-bottom: 20px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: lightsalmon;
+    color: white;
+    font-size: 21px;
+    border-radius: 20px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
